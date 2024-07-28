@@ -1,0 +1,29 @@
+ion-card {
+    margin: 16px;
+  
+    .logo {
+      display: block;
+      margin: 0 auto;
+      max-width: 100px; /* Adjust the size of the logo */
+      padding: 16px;
+    }
+  
+    ion-card-title {
+      text-align: center;
+      font-size: 1.4rem;
+      margin-top: 8px;
+    }
+  
+    ion-card-content {
+      p {
+        line-height: 1.5;
+        margin-bottom: 16px;
+  
+        &.copyright {
+          font-size: 0.8rem;
+          text-align: right;
+        }
+      }
+    }
+  }
+  
