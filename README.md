@@ -6,6 +6,7 @@ Se trata de una aplicación para consultar datos sobre el mundo de Star Wars, un
 
 ## Compilación
 - `npm install -g @ionic/cli@7`
+- `npm i`
 
 ## Ejecución
 - `ionic serve`
@@ -22,6 +23,7 @@ It is an application for consulting data about the Star Wars universe, like a Wi
 
 ## Compilation
 - `npm install -g @ionic/cli@7`
+- `npm i`
 
 ## Execution
 - `ionic serve`
